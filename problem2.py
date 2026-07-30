@@ -1,0 +1,10 @@
+a=10
+b=10.5
+c="python"
+d=True
+e=[1,2,3,4,5]
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(d))
+print(type(e))
